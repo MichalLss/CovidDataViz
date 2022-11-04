@@ -1,3 +1,3 @@
 # Covid Data Vizualization
 
-In this project Covid data is cleaned and prepared to visualise in Power BI. Data is analysed by continents and countries.
+In this project Covid data is cleaned and prepared to visualise in Power BI. Data is analysed by continents and countries!
